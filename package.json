@@ -35,7 +35,7 @@
   "devDependencies": {
     "prettier": "^2.4.1"
   },
-  "homepage": "https://github.com/gatsbyjs/avijit-gatsby-demo#readme",
+  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
   "keywords": [
     "gatsby"
   ],
@@ -43,7 +43,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gatsbyjs/avijit-gatsby-demo.git"
+    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
   },
   "scripts": {
     "build": "gatsby build",

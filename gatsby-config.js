@@ -3,7 +3,7 @@ module.exports = {
     title: `Gatsby Avijit `,
     author: {
       name: `Avijit Samanta`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      summary: `who lives and works in India building useful things.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
